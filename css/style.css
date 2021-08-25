@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;500&family=Press+Start+2P&display=swap');
+
+:root {
+  --color-base-1: #0460D9;
+  --color-base-2: #D92B3A;
+  --color-base-3: #D9AC25;
+  --color-base-4: #010440;
+  --color-base-5: #027373;
+  --color-black-2: #3A4042;
+}
+
+body {
+  font-family: "Fira Code", Arial, sans-serif;
+}
