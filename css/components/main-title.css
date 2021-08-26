@@ -1,0 +1,25 @@
+.main-title {
+    /* font-family: */
+    font-size: 40px;
+    color: var(--color-base-1);
+    text-shadow: 4px 4px 0 black;
+}
+
+.subtitle {
+    /* font-family: */
+    font-size: 30px;
+    color: white;
+    text-shadow: 4px 4px 0 black;   
+}
+
+.box {
+    display: inline-block;
+    text-align: center;
+    padding: 42px 44px;
+    background-color: var(--color-black-2);
+    box-shadow: 10px 10px 0 black;
+}
+
+.box .main-title {
+    margin-bottom: 28px;
+}
