@@ -1,16 +1,43 @@
 .skill-tec {
     font-family: 'Press Start 2P', sans-serif;
     display: flex;
+    align-items: center;
     font-size: 25;
     color: white;
 }
 
 .skill-tec .icon {
     margin-right: 25px;
+    width: 90px;
 }
 
 .skill-tec .right {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+}
+
+.skill-tec .title {
+    margin-bottom: 12px;
+}
+
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.skills .skill-tec {
+    width: 430px;
+    margin-bottom: 38px;
+}
+
+.skills .skill-tec:nth-child(odd) {
+    margin-right: 100px;
+}
+
+.skills .progress-bar {
+    width: 320px;
 }
