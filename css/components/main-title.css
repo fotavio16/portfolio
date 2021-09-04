@@ -23,3 +23,9 @@
 .box .main-title {
     margin-bottom: 28px;
 }
+
+.main-title.-second {
+    color: white;
+    text-shadow: none;
+    text-align: center;
+}
