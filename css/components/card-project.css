@@ -1,0 +1,22 @@
+.card-project {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--color-base-1);
+    width: 280px;
+    height: 280px;
+
+}
+
+.card-project.-proj2 {
+    background-color: var(--color-base-5);
+}
+
+.card-project.-proj3 {
+    background-color: var(--color-base-3);
+}
+
+.cards {
+    display: flex;
+    justify-content: space-around;
+}
